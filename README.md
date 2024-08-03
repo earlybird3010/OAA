@@ -1,0 +1,1 @@
+- This repository serves to keep track of all of my self studying at Open App Academy
