@@ -1,0 +1,2 @@
+git add (dirname or .): add all changes made in dirname or current directory to github
+ 
